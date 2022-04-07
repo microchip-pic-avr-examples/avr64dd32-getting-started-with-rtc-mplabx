@@ -43,14 +43,7 @@
         "keywords": [
             "Getting Started",
             "Bare Metal",
-            "RTC", 
-            "Real-Time Clock",
-            "TMR",
-            "Timer",
-            "Timing Module",
-            "Module",
-            "Timer Type",
-            "Timing"
+            "RTC"
         ],
         "additionalData": {
             "longDescription": {
