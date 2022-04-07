@@ -37,8 +37,12 @@
             }
         },
         "author": "Marinel-Cosmin Stanciu",
-        "peripherals": ["RTC"],
+        "peripherals": [
+            "RTC"
+        ],
         "keywords": [
+            "Getting Started",
+            "Bare Metal",
             "RTC", 
             "Real-Time Clock",
             "TMR",
